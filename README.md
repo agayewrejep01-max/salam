@@ -1,2 +1,1 @@
-# salam
-salam github ulanyjylar
+
